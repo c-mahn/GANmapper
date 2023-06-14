@@ -7,5 +7,5 @@ build/
 dist/
 polyaxon/
 notebook/
-*.png
+.png
 .polyaxonignore
