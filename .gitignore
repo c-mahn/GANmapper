@@ -2,8 +2,6 @@
 *.pyc
 debug*
 .polyaxon/
-datasets/
-checkpoints/
 results/
 build/
 dist/
